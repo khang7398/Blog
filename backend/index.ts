@@ -12,7 +12,6 @@ import categoryRoute from './routers/categories';
 import commentRoute from './routers/comments';
 
 const MONDO_DB =
-  // 'mongodb+srv://Blog_DB:Minhkhang2505@cluster0.7avdm.mongodb.net/blog?retryWrites=true&w=majority';
   'mongodb+srv://khang:Minhkhang2505@cluster0.pxnwq.mongodb.net/blog?retryWrites=true&w=majority';
 
 dotenv.config();
